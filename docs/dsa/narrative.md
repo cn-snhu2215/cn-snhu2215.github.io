@@ -9,5 +9,6 @@ The search functionality, contained in the method searchTrips in trip-search.ser
 This enhancement fulfills course outcome 3 by using algorithmic principles of computer science to solve a given problem. I had to work through a few design choices when planning this enhancement, such as whether to pull from the database with every search or to cache all the trip data and filter it from there.
 
 ![](Screenshot1.png)
+
 ![](Screenshot2.png)
 
