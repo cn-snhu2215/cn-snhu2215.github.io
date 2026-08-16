@@ -1,0 +1,19 @@
+<!-- <pre>{{ trips | json }}</pre> -->
+ <div *ngIf="isAdmin()">
+    <button (click)="addTrip()" class="btn btn-info">Add Trip</button>
+ </div>
+ <div class="mb-3">
+    <input
+        type="text"
+        class="form-control"
+        placeholder="Search"
+        [(ngModel)]="searchText"
+        (ngModelChange)="onSearch()"
+        name="searchText"
+        />
+ </div>
+<div class="row">
+    <div *ngFor="let trip of trips" class="col-md-4">
+        <app-trip-card [trip]="trip" class="card-deck mt-2"></app-trip-card>
+    </div>
+</div>
