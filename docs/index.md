@@ -4,7 +4,7 @@ Welcome to my e-portfolio. This site showcases my work with a full-stack web app
 
 ## Contents
 * <a href="https://www.youtube.com/watch?v=YOQgPmCwA0E" target="_blank" rel="noopener noreferrer">Code Review Video (YouTube Link)</a>
-* [Software Engineering Artifact](software_engineering/narrative.md)
+* [Software Engineering](software_engineering/narrative.md)
 * [Data Structures and Algorithms](dsa/narrative.md)
 * [Databases](databases/narrative.md)
 
