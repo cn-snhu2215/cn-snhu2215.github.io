@@ -5,7 +5,7 @@ Welcome to my e-portfolio. This site showcases my work with a full-stack web app
 ## Navigation Links
 * [Professional Self Assessment](index.md)
 
-######Professional Self Assessment
+###Professional Self Assessment
 Throughout my time in the Computer Science program at SNHU, I have developed many of the necessary skills needed to work as a professional in the software development industry. My coursework here laid a foundation in several programming languages including Python, Java, C++, SQL, and Javascript, as well as critical thinking skills to ensure that my code is efficient, effective, and compliant with industry best standards. 
 
 Beyond programming skills, I also gained experience with software design and how to work as a part of a team with other developers. Many of my courses at SNHU covered topics such as agile project management, stakeholder cooperation, and the lifecycle of an application. Projects in these courses helped me learn how to work as a member of a team and taught me how to plan coding sessions effectively.
