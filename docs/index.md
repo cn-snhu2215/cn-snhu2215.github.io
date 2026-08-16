@@ -3,7 +3,6 @@
 Welcome to my e-portfolio. This site showcases my work with a full-stack web application for the computer science capstone course at Southern New Hampshire University.
 
 ## Contents
-* [Professional Self Assessment](index.md)
 * <a href="https://www.youtube.com/watch?v=YOQgPmCwA0E" target="_blank" rel="noopener noreferrer">Code Review Video (YouTube Link)</a>
 * [Software Engineering Artifact](software_engineering/narrative.md)
 * [Data Structures and Algorithms](dsa/narrative.md)
