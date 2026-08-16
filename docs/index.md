@@ -5,6 +5,9 @@ Welcome to my e-portfolio. This site showcases my work with a full-stack web app
 ## Contents
 * [Professional Self Assessment](index.md)
 * <a href="https://www.youtube.com/watch?v=YOQgPmCwA0E" target="_blank" rel="noopener noreferrer">Code Review Video (YouTube Link)</a>
+* [Software Engineering Artifact](software_engineering/narrative.md)
+* [Data Structures and Algorithms](dsa/narrative.md)
+* [Databases](databases/narrative.md)
 
 ###### Professional Self Assessment
 Throughout my time in the Computer Science program at SNHU, I have developed many of the necessary skills needed to work as a professional in the software development industry. My coursework here laid a foundation in several programming languages including Python, Java, C++, SQL, and Javascript, as well as critical thinking skills to ensure that my code is efficient, effective, and compliant with industry best standards. 
